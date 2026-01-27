@@ -1,0 +1,54 @@
+package com.practice;
+
+public class Mains {
+    public static void main(String[] args) {
+    	
+    	ForestAnimal f = new HerbivoreAnimal(12,"Deer");
+    	f.makeSound("Deer");
+    }
+}
+
+class ForestAnimal {
+    String name;
+    int age;
+     
+    ForestAnimal(int age,String name) {
+    	this.name=name;
+    	this.age=age;
+    }
+   void makeSound() {
+        System.out.println("Animal makes sound");
+    }
+    
+    void makeSound(String name) {
+    	System.out.println(name+"makes sound");
+    }
+}
+
+class WildAnimal  extends ForestAnimal{
+  
+	WildAnimal(int age,String name) {
+		super(age,name);
+		
+	}
+	
+	@Override
+	void makeSound(String name) {
+		System.out.println(name+" growls loudly");
+	}
+}
+
+
+
+class HerbivoreAnimal  extends ForestAnimal{
+	  
+	HerbivoreAnimal (int age,String name) {
+		super(age,name);
+		
+	}
+	
+	@Override
+	void makeSound(String name) {
+		System.out.println(name+" bark");
+	}
+}
