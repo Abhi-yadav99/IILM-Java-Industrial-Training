@@ -1,0 +1,13 @@
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode CurrentPointer = head;
+        ListNode PreviousPointer = null;
+        while(CurrentPointer != null){
+            ListNode NextPointer = CurrentPointer.next;
+            CurrentPointer.next = PreviousPointer;
+            PreviousPointer = CurrentPointer;
+            CurrentPointer = NextPointer;
+                    }
+        return PreviousPointer;
+           }
+}
