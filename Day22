@@ -1,0 +1,86 @@
+import java.util.Scanner;
+
+class Node {
+    int data;
+    Node next, prev;
+    Node(int data) { this.data = data; }
+}
+
+class DoublyLinkedList {
+    Node head, tail;
+
+    void insertAtEnd(int data) {
+        Node newNode = new Node(data);
+        if (head == null) {
+            head = tail = newNode;
+        } else {
+            tail.next = newNode;
+            newNode.prev = tail;
+            tail = newNode;
+        }
+        System.out.println(data + " inserted.");
+    }
+
+    void deleteNode(int data) {
+        Node current = head;
+        while (current != null) {
+            if (current.data == data) {
+                if (current == head) head = head.next;
+                if (current.prev != null) current.prev.next = current.next;
+                if (current.next != null) current.next.prev = current.prev;
+                if (current == tail) tail = current.prev;
+                System.out.println(data + " deleted.");
+                return;
+            }
+            current = current.next;
+        }
+        System.out.println(data + " not found.");
+    }
+
+    void display() {
+        Node current = head;
+        System.out.print("List: ");
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+        System.out.println();
+    }
+}
+
+public class DoublyLinkedListDemo {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        DoublyLinkedList list = new DoublyLinkedList();
+        int choice, value;
+
+        do {
+            System.out.println("\n1.Insert  2.Delete  3.Display  0.Exit");
+            System.out.print("Enter choice: ");
+            choice = sc.nextInt();
+
+            switch(choice) {
+                case 1:
+                    System.out.print("Enter value: ");
+                    value = sc.nextInt();
+                    list.insertAtEnd(value);
+                    break;
+                case 2:
+                    System.out.print("Enter value: ");
+                    value = sc.nextInt();
+                    list.deleteNode(value);
+                    break;
+                case 3:
+                    list.display();
+                    break;
+                case 0:
+                    System.out.println("Exiting...");
+                    break;
+                default:
+                    System.out.println("Invalid choice!");
+            }
+        } while(choice != 0);
+
+        sc.close();
+    }
+}
