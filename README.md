@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
