@@ -32,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
