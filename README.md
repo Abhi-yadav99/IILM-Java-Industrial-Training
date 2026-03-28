@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -52,6 +53,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
