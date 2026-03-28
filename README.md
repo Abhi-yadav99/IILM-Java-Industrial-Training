@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -16,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
+| [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
+| [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
