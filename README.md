@@ -13,6 +13,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,4 +72,9 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
