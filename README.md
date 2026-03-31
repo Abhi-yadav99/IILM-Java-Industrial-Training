@@ -77,6 +77,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -91,6 +92,11 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
