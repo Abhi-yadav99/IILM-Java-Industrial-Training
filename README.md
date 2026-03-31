@@ -16,6 +16,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0043-multiply-strings](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -77,10 +79,15 @@
 | [0739-daily-temperatures](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
