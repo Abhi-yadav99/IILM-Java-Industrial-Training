@@ -18,6 +18,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
