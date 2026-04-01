@@ -33,6 +33,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
