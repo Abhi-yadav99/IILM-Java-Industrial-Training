@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
@@ -67,12 +69,14 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -104,5 +108,18 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1046-last-stone-weight/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
