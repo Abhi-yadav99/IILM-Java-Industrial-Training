@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
+| [0482-license-key-formatting](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0520-detect-capital/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
