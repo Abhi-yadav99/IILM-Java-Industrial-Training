@@ -15,6 +15,7 @@
 | [0645-set-mismatch](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1470-shuffle-the-array/) | Easy |
@@ -112,6 +113,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
