@@ -8,6 +8,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/1046-last-stone-weight/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
