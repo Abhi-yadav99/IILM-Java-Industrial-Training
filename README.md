@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0067-add-binary/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0520-detect-capital/) | Easy |
 | [0831-masking-personal-information](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0831-masking-personal-information/) | Medium |
@@ -129,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
