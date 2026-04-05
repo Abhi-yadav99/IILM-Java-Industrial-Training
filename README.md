@@ -49,6 +49,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0520-detect-capital/) | Easy |
+| [0796-rotate-string](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0831-masking-personal-information/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -134,4 +135,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
