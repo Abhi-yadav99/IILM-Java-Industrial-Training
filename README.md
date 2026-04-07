@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -137,4 +138,8 @@
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0796-rotate-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi-yadav99/IILM-Java-Industrial-Training/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
